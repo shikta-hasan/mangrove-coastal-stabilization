@@ -18,3 +18,5 @@ Mangroves can significantly reduce wave energy and enhance sediment deposition, 
 
 ## Author
 Master’s student at NTNU working on coastal engineering and hydrodynamic modeling
+## Full Report
+[Click here to view the full report](report.pdf)
